@@ -3,7 +3,7 @@
 
 - 🔭 My **Portfolio Projects** are at:  [https://github.com/Yuan-DataScience?tab=repositories](https://github.com/Yuan-DataScience?tab=repositories)
 
-- 👨‍💻 **Tools** & **Skills**:  **SQL | Python | Tableau | Power BI | A/B Test | Advanced Excel | R | Data Modelling | Making engaging presntations | Story Telling**
+- 👨‍💻 **Tools** & Skills:   **SQL** | **Python** | **Tableau** | **Power BI** | **A/B Test** | **Advanced Excel**  | **R**  | **Data Modelling** | **Making engaging presntations**
 
 - 🤝 My **Tableau** Projects are at:  [https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes](https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes)
 
