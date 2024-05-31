@@ -1,5 +1,3 @@
-![Yuanyuan Tang's Business Card](https://github.com/Yuan-DataScience/Yuan-DataScience/blob/main/LinedInBanner.jpg?raw=true)
-
 <h1 align="center">Hi 👋, I'm Yuanyuan Tang</h1>
 <h3 align="center">A skilled data analyst in the UK</h3>
 
