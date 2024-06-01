@@ -3,7 +3,7 @@
 
 - 📊 **Portfolio Projects**: Explore my projects on [GitHub](https://github.com/Yuan-DataScience?tab=repositories).
 
-- 💻 **Tools & Skills**: Proficient in SQL, Python, Tableau, Power BI, A/B testing, advanced Excel, R, and data modeling.
+- 💻 ***Tools & Skills***: *SQL, Python, Tableau, Power BI, A/B testing, advanced Excel, R, and data modeling.*
 
 - 📈 **Tableau Projects**: Check out my visualizations on [Tableau Public](https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes).
 
@@ -11,6 +11,6 @@
 
 - ✉️ **Contact**: Reach me at tangyuanyuan1110@gmail.com.
 
-- 🎓 **Certificates**: [Accenture Data Analytics and Visualization  Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Completion%20Certificate.pdf) | [Coursera SQL Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Coursera%20SQL.pdf) | [Google Analytics Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Google%20Analytics_Certificate.pdf)
+- 🎓 **Certificates**: [Accenture Data Analytics and Visualization Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Completion%20Certificate.pdf) | [Coursera SQL Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Coursera%20SQL.pdf) | [Google Analytics Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Google%20Analytics_Certificate.pdf)
 
 - ⚡ **Fun Fact**: I was the only East Asian woman in my cohort on the Computing Pathway of the Data Science program at Lancaster University. Beyond my studies, leveraging my background in marketing and advertising, I organized a cultural event in the UK, leading a team of 8 to create and promote online content. The event was covered by at least four media outlets and received over two million views. Additionally, as a content creator, my most popular post on a niche platform garnered nearly 3 million views and 180,000 likes. I frequently participate in tech industry events to gain and share interesting insights, and according to attendees, my presentations are highly engaging. **I have a strong aptitude and keen sense for leveraging data and business acumen to create value.**
