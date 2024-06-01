@@ -5,7 +5,7 @@
 
 - 💻 **Tools & Skills**: Proficient in SQL, Python, Tableau, Power BI, A/B testing, advanced Excel, R, and data modeling.
 
-- 📊 **Tableau Projects**: Check out my visualizations on [Tableau Public](https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes).
+- 📈 **Tableau Projects**: Check out my visualizations on [Tableau Public](https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes).
 
 - 🔗 **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/yuanyuan-tang-54573b253/).
 
