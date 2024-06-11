@@ -11,6 +11,6 @@
 
 - ✉️ **Contact**: Reach me at tangyuanyuan1110@gmail.com.
 
-- 🏅 **Certificates**: [Accenture Data Analytics and Visualization Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Completion%20Certificate.pdf) | [Coursera SQL Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Coursera%20SQL.pdf) | [Google Analytics Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Google%20Analytics_Certificate.pdf)
+- 🏅 **Certificates**: [Accenture Data Analytics and Visualization Certificate](https://github.com/Yuan-DataScience/Yuan-DataScience/blob/main/Accenture%20North%20America%20Data%20Analytics%20and%20Visualization%20Completion%20Certificate.pdf) | [Coursera SQL Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Coursera%20SQL.pdf) | [Google Analytics Certificate](https://github.com/Yuan-DataScience/Yuan-Profile/blob/main/Google%20Analytics_Certificate.pdf)
 
 - ⚡ **Fun Fact**: The hardest part of being a DA is not utilizing SQL, but translating business knowledge into meaningful and useful information.
