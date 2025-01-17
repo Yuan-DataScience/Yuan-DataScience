@@ -3,7 +3,7 @@
 
 - 📊 **Portfolio Projects**: Explore my projects on [GitHub](https://github.com/Yuan-DataScience?tab=repositories).
 
-- 💻 **Tools & Skills**: SQL, Python, Tableau, Power BI, A/B testing, advanced Excel, R, data mining and data modeling.
+- 💻 **Tools & Skills**:Machine Learning, Deep Learning, SQL, Python, Tableau, Power BI, A/B testing, , R, data mining and data modeling.
 
 - 📈 **Tableau Projects**: Check out my dashboards on [Tableau Public](https://public.tableau.com/app/profile/yuanyuan.tang7647/vizzes).
 
